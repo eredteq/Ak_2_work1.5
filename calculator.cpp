@@ -14,3 +14,8 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+int Calculator::TestInfo ()
+{
+    // Це просто тестовий метод для виконання завдання
+    return 6;
+}
